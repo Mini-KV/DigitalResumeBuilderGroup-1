@@ -9,9 +9,6 @@ import org.testng.Assert;
 import org.testng.annotations.BeforeMethod;
 import org.testng.annotations.Test;
 
-/*
- * @author Mini
- */
 public class LoginPageTest extends TestBase {
 	
 	LoginPage login;
