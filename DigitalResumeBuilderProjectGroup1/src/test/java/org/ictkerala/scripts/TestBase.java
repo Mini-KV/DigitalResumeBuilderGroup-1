@@ -19,9 +19,7 @@ import org.openqa.selenium.support.ui.WebDriverWait;
 import org.testng.annotations.AfterMethod;
 import org.testng.annotations.BeforeMethod;
 
-/*
- * @author Mini
- */
+
 public class TestBase {
 
 	WebDriver driver;
