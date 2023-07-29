@@ -11,9 +11,7 @@ import org.testng.Assert;
 import org.testng.annotations.BeforeMethod;
 import org.testng.annotations.Test;
 
-/*
- * @author Mini
- */
+
 public class CreateResumeTestPage extends TestBase{
 	
 	CreateResumePage createres;
