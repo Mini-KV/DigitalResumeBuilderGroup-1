@@ -7,9 +7,7 @@ import org.apache.poi.xssf.usermodel.XSSFSheet;
 import org.apache.poi.xssf.usermodel.XSSFWorkbook;
 import org.ictkerala.constants.AutomationConstants;
 
-/*
- * @author Mini
- */
+
 public class ExcelUtility {
 	public static XSSFWorkbook excelWbook;
 	public static XSSFSheet excelSheet;
