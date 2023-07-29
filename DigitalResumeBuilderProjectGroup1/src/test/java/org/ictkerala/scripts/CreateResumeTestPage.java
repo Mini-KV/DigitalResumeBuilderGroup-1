@@ -55,7 +55,7 @@ public class CreateResumeTestPage extends TestBase{
 		Assert.assertEquals(createres.getTemplate4(), AutomationConstants.expectedTemp4Title);
 	}
 	
-	//Test if edit profile button is opening with template 1
+	//Test if edit profile button is opening with Template 1
 	@Test(priority=5, description= "Verify Edit button")
 	public void editDetails() throws InterruptedException {
 		createprof = new CreateProfPage (driver, wait);
